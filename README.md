@@ -1,4 +1,4 @@
-# Reflect-model
+# Reflect
 
 
 Reflect acts as a smart mood journal. Users can write daily entries, and the app uses a trained machine learning model to detect the underlying emotion and compute a mood score. It stores the entries, tracks trends over time, and alerts users when mood consistently declines. Users can view past trends with a simple `plot` command.
